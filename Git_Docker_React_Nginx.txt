@@ -1,0 +1,37 @@
+                     Nignx -Server
+					 
+		  Deploy a React App using Nginx			 
+https://youtu.be/tGYNYPKTyno?si=1xvwxL9d3jxQPHc-					 
+					 
+					 
+https://youtu.be/7aRjGIhwyQM?si=_26daFfibUX2T8Zv					 
+   
+               
+               Linux Server Setup & MERN Deployment 
+			   
+   https://youtu.be/7aRjGIhwyQM?si=b7z3fbgZX-zmOYop
+   
+   
+                       Docker In One Shot - Part 1
+	
+   https://youtu.be/31k6AtW-b3Y?si=V0TjUhRbRflO10aE
+   
+   
+                             Deploy YOUR React App on VPS Server with Nginx from scratch
+							 
+   https://youtu.be/RAI_O_xkEuY?si=SGFuB_YPin5KFta9
+   
+   
+                     🔥 Dockerizing React with Nginx for Production in Hindi
+   
+                     https://youtu.be/WOeSkyM9mRY?si=xwTzoGLZn2eb43DU
+   
+   
+   
+    Create Branch in git 
+	
+    git branch new_branch 
+	
+	git checkout new_branch to switch to that branch.
+	
+	git checkout new_branch
